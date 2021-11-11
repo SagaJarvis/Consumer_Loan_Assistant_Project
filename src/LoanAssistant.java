@@ -1,6 +1,6 @@
 
 /*
-LoanAssistant.java
+Consumer Loan Assistant Project
 */
 import javax.swing.*;
 import java.awt.*;
